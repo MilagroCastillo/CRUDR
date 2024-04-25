@@ -1,0 +1,8 @@
+C:\Users\MINEDUCYT\Desktop\CrudR\CRUDNCAPAS.R.AppWeb\R.UI.AppWebMVC\obj\Release\net6.0\R.UI.AppWebMVC.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\CrudR\CRUDNCAPAS.R.AppWeb\R.UI.AppWebMVC\obj\Release\net6.0\R.UI.AppWebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\CrudR\CRUDNCAPAS.R.AppWeb\R.UI.AppWebMVC\obj\Release\net6.0\R.UI.AppWebMVC.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\CrudR\CRUDNCAPAS.R.AppWeb\R.UI.AppWebMVC\obj\Release\net6.0\R.UI.AppWebMVC.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\CrudR\CRUDNCAPAS.R.AppWeb\R.UI.AppWebMVC\obj\Release\net6.0\R.UI.AppWebMVC.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\CrudR\CRUDNCAPAS.R.AppWeb\R.UI.AppWebMVC\obj\Release\net6.0\R.UI.AppWebMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MINEDUCYT\Desktop\CrudR\CRUDNCAPAS.R.AppWeb\R.UI.AppWebMVC\obj\Release\net6.0\R.UI.AppWebMVC.RazorAssemblyInfo.cache
+C:\Users\MINEDUCYT\Desktop\CrudR\CRUDNCAPAS.R.AppWeb\R.UI.AppWebMVC\obj\Release\net6.0\R.UI.AppWebMVC.RazorAssemblyInfo.cs
